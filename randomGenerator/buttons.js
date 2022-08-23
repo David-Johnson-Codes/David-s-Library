@@ -6,7 +6,7 @@ let myArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 function randomFunction() {
 
-    //randomly generates a number from 0 to 10.
+    //randomly generates a number from 0 to 9.
     var randomNumber = Math.floor(Math.random() * 10);
     //changes an html element which contains an ID which is unique. In
     //this example, the function generates a number which is used to
