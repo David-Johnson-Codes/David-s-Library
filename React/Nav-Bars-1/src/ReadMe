@@ -1,0 +1,10 @@
+Will have to learn how to clean up react files.
+
+Main take aways
+
+1)The folder components contains the Navbar.js
+
+2)The folder Styles contains the css used
+
+3)A few changes to App.js which is used to import the Navbar compenet.
+
