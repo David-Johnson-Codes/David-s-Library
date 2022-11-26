@@ -1,3 +1,5 @@
+Credit to Index-Zero for the code. This is not my original code.
+
 This folder will contain custom code for react snippets that I personally like. My todos in this folder.
 
 1)Learn how to create folders in github. 
