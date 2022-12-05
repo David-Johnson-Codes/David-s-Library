@@ -49,6 +49,8 @@ const Background = () => {
                         },
                     },
                 },
+                //Paste custom code from vincentgarreau.com/particles.js  here convert json to JS from 
+                //csvjson.com
                 particles: {
                     color: {
                         value: "#ffffff",
