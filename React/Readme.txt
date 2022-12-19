@@ -8,5 +8,9 @@ This folder will contain custom code for react snippets that I personally like. 
 
 3)Only add useful files. Since creating a react project creates many files, todo 2) may not be the most efficient. I could only add certain files and folders (although it may be confusing when trying to use snippets in a project). Thus learning to be more organized and regularily cleaning up this git will be crucial.
 
+4)Create my own Card using props with CSS styling.
+
+5)Create my own Nav Bar using state.
+
 
 to create a new react project npx create-react-app@latest nav-bars
