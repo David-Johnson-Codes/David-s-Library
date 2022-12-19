@@ -24,4 +24,6 @@ Step 5. Convert the json file to JS and make sure to keep keys:
 
         https://csvjson.com/
         
-        Note: This is not the only way to set up TSparticles. There are other methods not listed here.
+        Note: This is not the only way to set up TSparticles. There are other methods not listed here. Use z-index to place the particles to be seen correctly.
+        
+   
