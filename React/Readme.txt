@@ -14,3 +14,11 @@ This folder will contain custom code for react snippets that I personally like. 
 
 
 to create a new react project npx create-react-app@latest nav-bars
+
+for next js project
+
+Create a folder then run the next two commands
+
+npm init -y
+
+npm install next react react-dom
