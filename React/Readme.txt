@@ -22,3 +22,16 @@ Create a folder then run the next two commands
 npm init -y
 
 npm install next react react-dom
+
+
+breakpoints
+
+576
+
+768
+
+992
+
+1200
+
+1400
